@@ -17,26 +17,10 @@
 [![Dependency Status](https://david-dm.org/Semantic-Org/Semantic-UI-Ember.svg)](https://david-dm.org/Semantic-Org/Semantic-UI-Ember)
 
 
-
-
 This is the official Ember library for the Semantic-UI modules.
 
-# Installation
+## Installation & Usage
 
-Install this add-on through Ember CLI. We support Ember versions 1.13 latest - 2.X.
-
-```
-ember install semantic-ui-ember
-```
-
-Run the library's blueprint to pull in its Bower dependencies. This only needs to be done once.
-
-```
-ember generate semantic-ui-ember
-```
-
-## Documentation
-
-### [Detailed documentation on using Semantic-UI-Ember](http://Semantic-Org.github.io/Semantic-UI-Ember).
+See the [Documentation][http://semantic-org.github.io/Semantic-UI-Ember] for an introduction, usage information, and extensive examples.
 
 ### [Changelog](CHANGELOG.md)
